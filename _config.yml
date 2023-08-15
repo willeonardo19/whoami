@@ -1,5 +1,5 @@
 title: Whoami
-author: Wil LeonardoGitHub User
+author: Wil Leonardo
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "twitter_username:"
   En este lugar encontrarar información de WilL, recursos sobre hacking y más.
@@ -38,7 +38,7 @@ minima:
 # - about.html
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 
 plugins:
  - jekyll-feed
